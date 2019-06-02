@@ -1,0 +1,8 @@
+config.proterties
+.gradle/
+.idea/
+build.gradle
+build/
+settings.gradle
+src/
+
